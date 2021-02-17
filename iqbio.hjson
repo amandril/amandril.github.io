@@ -8,22 +8,22 @@
     {
       "id": "Chris Myers",
       "url": "chris-myers",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Jeff Cameron",
       "url": "jeffrey-cameron",
-      "group": 1
+      "group": 3
     },
     {
       "id": "Jerome Fox",
       "url": "jerome-fox",
-      "group": 1
+      "group": 4
     },
     {
       "id": "Yannick Bomble",
       "custom": "https://www.nrel.gov/research/staff/yannick-bomble.html",
-      "group": 1
+      "group": 5
     },
     {
       "id": "Boswell Wing",
@@ -33,22 +33,22 @@
     {
       "id": "Roy Parker",
       "url": "roy-parker",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Joel Kralj",
       "url": "joel-kralj",
-      "group": 1
+      "group": 3
     },
     {
       "id": "Zack Kilpatrick",
       "url": "Zack-Kilpatrick",
-      "group": 1
+      "group": 4
     },
     {
       "id": "Chris Lowry",
       "url": "Chris-Lowry",
-      "group": 1
+      "group": 5
     },
     {
       "id": "Manuel Lladser",

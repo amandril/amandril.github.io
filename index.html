@@ -68,7 +68,7 @@ d3.json("iqbio.hjson", function(error, graph) {
     .attr("xlink:href", d => d.url?`https://www.colorado.edu/certificate/iqbiology/${d.url}`:d.custom?d.custom:"#")
       .append("text")
       .text(d => d.id)
-      .classed('faculty', d => d.group==1||2||3?true:false)
+      .classed('faculty', d => d.group==2?true:false)
       .attr('x', 9)
       .attr('y', 3);
 

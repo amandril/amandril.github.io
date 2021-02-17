@@ -3,7 +3,7 @@
     {
       "id": "Mirela Alistar",
       "url": "mirela-alistar",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Chris Myers",
@@ -13,22 +13,22 @@
     {
       "id": "Jeff Cameron",
       "url": "jeffrey-cameron",
-      "group": 3
+      "group": 2
     },
     {
       "id": "Jerome Fox",
       "url": "jerome-fox",
-      "group": 4
+      "group": 2
     },
     {
       "id": "Yannick Bomble",
       "custom": "https://www.nrel.gov/research/staff/yannick-bomble.html",
-      "group": 5
+      "group": 2
     },
     {
       "id": "Boswell Wing",
       "custom": "boswell-wing",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Roy Parker",
@@ -38,287 +38,287 @@
     {
       "id": "Joel Kralj",
       "url": "joel-kralj",
-      "group": 3
+      "group": 2
     },
     {
       "id": "Zack Kilpatrick",
       "url": "Zack-Kilpatrick",
-      "group": 4
+      "group": 2
     },
     {
       "id": "Chris Lowry",
       "url": "Chris-Lowry",
-      "group": 5
+      "group": 2
     },
     {
       "id": "Manuel Lladser",
       "url": "Manuel-Lladser",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Lawrence Hunter",
       "url": "Lawrence-Hunter",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Sabrina Spencer",
       "url": "Sabrina-Spencer",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Laura Dee",
       "url":"Laura-Dee",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Nancy Rodriguez",
       "url": "Nancy-Rodriguez",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Daniel Larremore",
       "url": "Daniel-Larremore",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Nancy Emery",
       "url": "Nancy-Emery",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Orit Peleg",
       "url": "Orit-Peleg",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Daniel Doak",
       "url":"Daniel-Doak",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Carl Simpson",
       "url": "Carl-Simpson",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Joanna Lambert",
       "custom": "https://www.colorado.edu/ebio/joanna-e-lambert",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Sara Sawyer",
       "url": "Sara-Sawyer",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Alexis Templeton",
       "url": "alexis-templeton",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Noah Fierer",
       "url": "noah-fierer",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Sebastian Kopf",
       "url": "sebastian-kopf",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Brad Olwin",
       "url": "brad-olwin",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Edward Chuong",
       "url": "edward-chuong",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Ryan Layer",
       "url": "ryan-layer",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Chris Gignoux",
       "url": "chris-gignoux",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Joel Kaar",
       "url": "joel-kaar",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Leslie Leinwand",
       "url": "leslie-leinwand",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Karolin Luger",
       "url": "karolin-luger",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Timothy Whitehead",
       "url": "timothy-whitehead",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Joshua Grochow",
       "custom": "https://home.cs.colorado.edu/~jgrochow/index.html",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Steve Schmidt",
       "url": "steven-schmidt",
-      "group": 1
+      "group": 2
     },
     {
       "id": "David Bortz",
       "url": "david-bortz",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Rebecca Safran",
       "url": "rebecca-safran",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Franck Vernerey",
       "url": "franck-vernerey",
-      "group":"1"
+      "group": 2
     },
     {
       "id": "Nolan Kane",
       "url": "nolan-kane",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Scott Taylor",
       "url": "scott-taylor",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Steve Wagner",
       "custom": "http://www-hep.colorado.edu/~stevew/",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Zoe Donaldson",
       "custom": "http://www.zdonaldsonlab.com",
-      "group": 1
+      "group": 2
     },
     {
       "id": "John Rinn",
       "url": "john-rinn",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Michael Shirts",
       "url": "michael-shirts",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Shelley Copley",
       "custom": "https://www.colorado.edu/lab/copley/",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Corey Neu",
       "url": "corey-neu",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Mark Rentschler",
       "url": "mark-rentschler",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Amy Palmer",
       "url": "amy-palmer",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Aaron Clauset",
       "url": "aaron-clauset",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Brett Melbourne",
       "url": "brent-melbourne",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Christy McCain",
       "url": "christy-mccain",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Ryan Gill",
       "custom": "http://gillgroup.org",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Robert Garcea",
       "custom": "http://garcealab.colorado.edu",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Theodore Randolph",
       "custom": "https://www.colorado.edu/chbe/theodore-w-randolph",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Stephanie Bryant",
       "url": "stephanie-bryant",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Virginia Ferguson",
       "url": "virginia-ferguson",
-      "group": 1
+      "group": 2
     },
     {
       "id": "David Pollock",
       "url": "david-pollock",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Stacey Smith",
       "url": "stacey-smith",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Robin Dowell",
       "url": "robin-dowell",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Sam Flaxman",
       "url": "sam-flaxman",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Tim Seastedt",
       "custom": "http://culter.colorado.edu/~tims/",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Natalie Ahn",
       "url": "natalie-ahn",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Xuedong Liu",
       "url": "xuedong-liu",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Kristi Anseth",
       "url": "kristi-anseth",
-      "group": 1
+      "group": 2
     },
     {
       "id": "Lukas Bücherl",
